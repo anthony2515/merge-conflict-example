@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the first statement made by person-1
+=======
+this is the statement from main
+>>>>>>> main
